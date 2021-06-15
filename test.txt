@@ -1,0 +1,3 @@
+gamin
+
+(DateTime.Now.) - User got "output" TRY/USD/GBP/EUR from "input" TRY/USD/GBP/EUR
